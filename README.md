@@ -22,8 +22,8 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 ```
 /*
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
-Developed by: SUDHARSANAN U
-RegisterNumber: 212224230276 
+Developed by: Sanjeev A
+RegisterNumber: 212224230246
 */
 ```
 ```
@@ -68,7 +68,6 @@ r2
 dt.predict([[5,6]])
 ```
 ## Output:
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
 
 ![image](https://github.com/user-attachments/assets/b6eb06ed-4ba7-4f88-b66d-965e386c76e7)
 
